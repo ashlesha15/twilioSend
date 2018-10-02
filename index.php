@@ -5,7 +5,7 @@
 require_once "vendor/autoload.php"; 
  
 use Twilio\Rest\Client; 
- echo "Hello You Will Recive Msg Soon";
+ echo "Hello from Ashlesha ";
 $sid    = "AC9b0fc4e7a41d73edd2faa4c334a6b3b1"; 
 $token  = "01b6b574f09784b43620b0274a7e5fab"; 
 $twilio = new Client($sid, $token); 
